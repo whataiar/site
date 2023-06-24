@@ -819,7 +819,7 @@ ui:
       placeholder: Buscar
   footer:
     build_on: >-
-      Sitio creado con <1> Answer </1>- el software de código abierto sobre el que funcionan las comunidades de P&R.<br />Hecho con amor © {{cc}}.
+      Sitio creado con <1> 42 Awesome Software </1>-.<br />Hecho con amor © {{cc}}.
   upload_img:
     name: Cambiar
     loading: cargando...
