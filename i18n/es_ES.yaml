@@ -1293,7 +1293,7 @@ ui:
     write: Escribir
     tos: Términos de servicio
     privacy: Privacidad
-    seo: ESTE
+    seo: Seo
     customize: Personalizar
     themes: Temas
     css_html: CSS/HTML
@@ -1613,7 +1613,7 @@ ui:
       page_title: Iniciar sesión
       membership:
         title: Membresía
-        label: Permitir registro de nuevas ceuntas
+        label: Permitir registro de nuevas cuentas
         text: Desactiva esto para evitar que cualquier persona pueda crear una cuenta.
       email_registration:
         title: Email registration
@@ -1733,8 +1733,8 @@ ui:
     discard_confirm: '¿Está seguro de que desea descartar este borrador?'
   messages:
     post_deleted: Esta publicación ha sido eliminada.
-    post_pin: This post has been pinned.
-    post_unpin: This post has been unpinned.
-    post_hide_list: This post has been hidden from list.
-    post_show_list: This post has been shown to list.
-    post_reopen: This post has been reopened.
+    post_pin: La pregunta se ha marcado.
+    post_unpin: La pregunta se ha desmarcado.
+    post_hide_list: La pregunta se ha ocultado de la lista.
+    post_show_list: La pregunta se mostrara en la lista.
+    post_reopen: La pregunta se a abierto nuevamente.
