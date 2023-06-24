@@ -15,14 +15,12 @@ const Index = () => {
       <Container className="py-3">
         <p className="text-center mb-0 small text-secondary">
           <Trans i18nKey="footer.build_on" values={{ cc }}>
-            Built on
+            Creador por
             {/* eslint-disable-next-line react/jsx-no-target-blank */}
-            <a href="https://answer.dev/" target="_blank">
-              Answer
+            <a href="https://42.com.ar/" target="_blank">
+              42 Awesome Software
             </a>
-            - the open-source software that powers Q&A communities.
-            <br />
-            Made with love. © 2022 Answer.
+            Hecho con amor. © 2022 Answer.
           </Trans>
         </p>
       </Container>
